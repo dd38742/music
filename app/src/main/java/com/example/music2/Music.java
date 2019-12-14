@@ -27,5 +27,5 @@ public class Music {
     public String getUrl(){return this.url;}
     public void setAlbum_id(long album_id){this.album_id = album_id;}
     public long getAlbum_id(){return this.album_id;}
-
+//a
 }
